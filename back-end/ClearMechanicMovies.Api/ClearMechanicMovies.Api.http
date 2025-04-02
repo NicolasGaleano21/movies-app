@@ -1,0 +1,6 @@
+@ClearMechanicMovies.Api_HostAddress = http://localhost:5091
+
+GET {{ClearMechanicMovies.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
